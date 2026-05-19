@@ -1,5 +1,4 @@
--- git config --global user.email "leonbrans@ultralicht.de"
-  git config --global user.name "Leon Brans"
+-- 
 -- FORTINET-CORE-MIB.mib: Main MIB for Fortinet enterprise OID tree
 --
 -- MODULE-IDENTITY
